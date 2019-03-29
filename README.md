@@ -7,7 +7,8 @@
 
 
 ## Requirements 
- - Python 3.5 
- - Cuda 10.0 
- - Pytorch 1.0.1 
+ - Python (>= 3.5) 
+ - Numpy ()
+ - Cuda (>= 10.0)
+ - Pytorch (>= 1.0.1)
  
